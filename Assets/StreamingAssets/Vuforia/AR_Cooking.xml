@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="PancakeMaker" size="10.000000 15.000000" />
+    <ImageTarget name="UltimateBurger" size="10.000000 15.000000" />
+    <ImageTarget name="DigitalBook" size="10.000000 15.000000" />
+    <ImageTarget name="MainMenu2" size="10.000000 15.000000" />
+    <ImageTarget name="MainMenu" size="10.000000 15.000000" />
+  </Tracking>
+</QCARConfig>

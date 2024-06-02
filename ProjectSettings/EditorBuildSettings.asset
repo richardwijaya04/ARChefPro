@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 25f79fbc3c89d4a0984febe5695c0177
+  - enabled: 1
+    path: Assets/Scenes/Burger.unity
+    guid: 6a188df6b427c44d79b82de6cec44c5f
+  - enabled: 1
+    path: Assets/Scenes/MainMenu2.unity
+    guid: 5e28264bbb2aa42c18dd3d1c79821e71
+  - enabled: 1
+    path: Assets/Scenes/Pancake.unity
+    guid: 8a5f38f42515f4ba7adcd47441a5ebc8
+  - enabled: 1
+    path: Assets/Scenes/BurgerIngredients.unity
+    guid: 637fa69d88d3045128370dc924771b5e
+  - enabled: 1
+    path: Assets/Scenes/BurgerIngredients/Beef.unity
+    guid: e1e81cca55b9842c0b986d7847642520
+  - enabled: 1
+    path: Assets/Scenes/BurgerIngredients/Bombay.unity
+    guid: 214706aa9973a4a86a3488be0eb2c8e0
+  - enabled: 1
+    path: Assets/Scenes/BurgerIngredients/Cheese.unity
+    guid: 17ea83a2d8a41401990c82390615b0f5
+  - enabled: 1
+    path: Assets/Scenes/BurgerIngredients/Selada.unity
+    guid: d0dbf71b3babb40b8a1f1b999c7e5d62
+  - enabled: 1
+    path: Assets/Scenes/BurgerIngredients/Tomato.unity
+    guid: 2d9ebbdd72e994adf8c2d21d95482339
+  - enabled: 1
+    path: Assets/Scenes/Pancakeingredients/BakingPowder.unity
+    guid: 676f97a9cf0f64590a8ef448a3a718d2
+  - enabled: 1
+    path: Assets/Scenes/Pancakeingredients/Butter.unity
+    guid: 399b4e1eb9486403c9d339390fcb5b5a
+  - enabled: 1
+    path: Assets/Scenes/Pancakeingredients/GulaGaram.unity
+    guid: cf4d49564e8914d268ca4debf7e0f7cc
+  - enabled: 1
+    path: Assets/Scenes/Pancakeingredients/MeltedButter.unity
+    guid: 4ce77bfe030e64a0489516aa40ff15e2
+  - enabled: 1
+    path: Assets/Scenes/Pancakeingredients/Milk.unity
+    guid: 342c2b5fdde9f4eb58531d1d9c5a6f4c
+  - enabled: 1
+    path: Assets/Scenes/Pancakeingredients/Tepung.unity
+    guid: 8513b5ef646e0483fb31c1405ce5ea88
+  - enabled: 1
+    path: Assets/Scenes/BurgerStep/Step1.unity
+    guid: f4edc0f7b816b47f992ea7b859fa9eb0
+  - enabled: 1
+    path: Assets/Scenes/BurgerStep/Step2.unity
+    guid: 4604f73a98d4f4db0b23dc90c97521f5
+  - enabled: 1
+    path: Assets/Scenes/BurgerStep/Step3.unity
+    guid: 5533a1401e8f74b9c962b6c63fef21fd
+  - enabled: 1
+    path: Assets/Scenes/BurgerStep/Step4.unity
+    guid: 20af548bd5a264d488f2f799b116b78d
+  - enabled: 1
+    path: Assets/Scenes/BurgerStep/Step5.unity
+    guid: b51d775eb331d44f9b96081abbf1ca0a
+  - enabled: 1
+    path: Assets/Scenes/BurgerStep/Step6.unity
+    guid: 63a62039914c54ee9b38da536af4cd72
+  - enabled: 1
+    path: Assets/Scenes/BurgerStep/Step7.unity
+    guid: 10c62d891baef4bf28dc78d627065f28
+  - enabled: 1
+    path: Assets/Scenes/PancakeStep/Step1P.unity
+    guid: 9f6217338fa35482094e566c1b24a22c
+  - enabled: 1
+    path: Assets/Scenes/PancakeStep/Step2P.unity
+    guid: a496958fde0c846038bb2510a27ed732
+  - enabled: 1
+    path: Assets/Scenes/PancakeStep/Step3P.unity
+    guid: 4ea2659c39cb6494c8646cb378100a40
+  - enabled: 1
+    path: Assets/Scenes/PancakeStep/Step4P.unity
+    guid: 796ee58d1cded42408b622ee0d44b8de
+  - enabled: 1
+    path: Assets/Scenes/PancakeStep/Step5P.unity
+    guid: fc8388ed1f3ce436da4df98227dcfa69
+  - enabled: 1
+    path: Assets/Scenes/PancakeStep/Step6P.unity
+    guid: 14a0bb4aa4ad14acb9552862db008d5c
+  - enabled: 1
+    path: Assets/Scenes/PancakeStep/Step7P.unity
+    guid: 299ed39e7d3c244878091609bc3f841c
+  - enabled: 1
+    path: Assets/Scenes/PancakeStep/Step8P.unity
+    guid: 725cc802332a64397a08e3a7e06c21f3
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 66f3c08a0db6d444a8deb7a0e0e452ca,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: eb3236924b63d4b538c1f33ad3d3fe7e,
+      type: 2}
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: 3d3190092c78a4229951b4a3afed0bea, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: ac6d42b316f7d4ebda9de4dc7072af75,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: e47a1664a779e4705b57e3838bea643a, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 7daf94789be7b43408de9372f5b9699c, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: f47ec6f7730f34f6e8e35ae044693fce,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 0262d1355b43143fabd807666d974f60,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c19391d8b2f604c7b9dbed939df09f15,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: cf4be366b614d4985b8072eaed2df170,
+      type: 2}
