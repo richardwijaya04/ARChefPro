@@ -1,5 +1,5 @@
 Project ini dibuat oleh:
-Aileen Angelica Lee (2602067810)  Mochammad Alfito Dwi Cahyono (2602176723) | Richard Wijaya Harianto	(2602154930)
+Aileen Angelica Lee (2602067810) | Mochammad Alfito Dwi Cahyono (2602176723) | Richard Wijaya Harianto	(2602154930)
 
 ARChefPro adalah sebuah aplikasi revolusioner yang menggunakan teknologi Augmented Reality (AR) untuk meningkatkan pengalaman belajar memasak secara interaktif dan mendalam. Aplikasi ini dirancang untuk mengatasi keterbatasan dalam metode pendidikan kuliner tradisional dengan menyajikan tutorial memasak yang menggabungkan unsur visual yang menarik dengan pengalaman belajar yang praktis. Dengan ARChefPro, pengguna dapat mengakses resep-resep dan tutorial memasak dalam format 3D yang realistis, menciptakan lingkungan virtual yang mengundang untuk belajar memasak dengan cara yang lebih interaktif dan menyenangkan. Melalui fitur "Scan Here", pengguna dapat dengan mudah mengakses konten AR dengan memindai penanda yang disediakan, membuka pintu ke dunia kuliner yang menarik dan mendidik.
 
